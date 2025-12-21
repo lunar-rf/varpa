@@ -12,7 +12,7 @@ for:
 
 > `VARPA`: `A Variable Power Amplifier`
 
-An open source `VHF` power amplifier featuring software configurable output power.
+An open source `VHF` power amplifier with software-configurable RF output power.
 
 # RF Primer
 
