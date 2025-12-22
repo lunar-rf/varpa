@@ -14,6 +14,10 @@ for:
 
 An open source, software-configurable `VHF` `RF` power amplifier.
 
+`RF` output power control is achieved using two control circuits:
+* Drain bias (supply) voltage regulator
+* Input drive attenuator
+
 # RF Primer
 
 If you are new to the topic, you can read:<br>
