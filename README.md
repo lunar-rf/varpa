@@ -18,7 +18,7 @@ An open source, software-configurable `VHF` `RF` power amplifier.
 * Drain bias (supply) voltage regulator
 * Input drive attenuator
 
-Silicon Lab's `Si4468` tranceiver is used to generate the PA input tone.
+Silicon Lab's `Si4468` tranceiver is used to generate the `PA` input tone.
 
 # RF Primer
 
