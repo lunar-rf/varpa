@@ -71,7 +71,7 @@ See `LICENSE.txt` for more info.
 | https://lunar.sh                      |
 |                                       |
 | Research Laboratories                 |
-| Donate XMR @ 'lunar.sh' (OpenAlias)   |
+| OpenAlias (XMR): lunar.sh             |
 | Copyright (C) 2022-2024               |
 +---------------------------------------+
 ```
