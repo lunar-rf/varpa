@@ -49,6 +49,7 @@ See `LICENSE.txt` for more info.
 |----- /scripts          Calibration script and TUI application.
 |----- /resources        Datasheets and misc resources.
 |----- VARPA.pdf         Compiled Latex project report.
+|----- PAPER.pdf         Project Paper.
 |----- LICENSE.txt       VARPA license.
 ```
 
